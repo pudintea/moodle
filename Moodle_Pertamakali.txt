@@ -4,8 +4,9 @@ Log into the Moodle Dashboard.
 Navigate to Site administration > Plugins > Authentication > Manage authentication in the settings.
 Ubah Guest login button : Hide
 
-
-
+2. Google Recaptcha
+https://www.google.com/recaptcha/
+Navigate to Site administration > Plugins > Authentication > Manage authentication
 
 
 
