@@ -1,0 +1,15 @@
+============================
+1. Removing the Guest login
+Log into the Moodle Dashboard.
+Navigate to Site administration > Plugins > Authentication > Manage authentication in the settings.
+Ubah Guest login button : Hide
+
+
+
+
+
+
+
+
+
+==============================
